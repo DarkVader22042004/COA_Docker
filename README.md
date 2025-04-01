@@ -5,7 +5,7 @@
 This Python application reads student data from a YAML file and provides options to display and filter the data based on GPA. It demonstrates how to handle YAML files in Python using the PyYAML library.
 
 #![Uploading Screenshot 2025-04-01 163848.png…]()
-![Uploading Screenshot 2025-04-01 163805.png…]()
+#![Uploading Screenshot 2025-04-01 163805.png…]()
 # Features
 - Reads student information from a `students.yaml` file.
 - Displays all students with their details.
